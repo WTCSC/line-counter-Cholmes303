@@ -4,9 +4,3 @@ def line_count(file):
   """
   file = open('file.txt', 'r') 
   return file.readlines() + 1
-  
-
-      
-
-
-  
